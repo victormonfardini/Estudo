@@ -1,0 +1,14 @@
+C:\Users\vadmonfardini\Desktop\Estudo\csharp\csharpexceptions-projetoInicial\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\vadmonfardini\Desktop\Estudo\csharp\csharpexceptions\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\vadmonfardini\Desktop\Estudo\csharp\csharpexceptions\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\vadmonfardini\Desktop\Estudo\csharp\csharpexceptions\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\vadmonfardini\Desktop\Estudo\csharp\csharpexceptions\ByteBank\obj\Debug\ByteBank.csprojResolveAssemblyReference.cache
+C:\Users\vadmonfardini\Desktop\Estudo\csharp\csharpexceptions\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\vadmonfardini\Desktop\Estudo\csharp\csharpexceptions\ByteBank\obj\Debug\ByteBank.pdb
+C:\Users\Victor Monfardini\Desktop\Estudo\csharp\csharpexceptions\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\Victor Monfardini\Desktop\Estudo\csharp\csharpexceptions\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\Victor Monfardini\Desktop\Estudo\csharp\csharpexceptions\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\Victor Monfardini\Desktop\Estudo\csharp\csharpexceptions\ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\Users\Victor Monfardini\Desktop\Estudo\csharp\csharpexceptions\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Victor Monfardini\Desktop\Estudo\csharp\csharpexceptions\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\Victor Monfardini\Desktop\Estudo\csharp\csharpexceptions\ByteBank\obj\Debug\ByteBank.pdb
